@@ -1,7 +1,6 @@
 package Maven_example.Maven_example;
 
-import static org.junit.Assert.*;
-
+import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 public class CourseTest {
